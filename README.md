@@ -1,6 +1,6 @@
 # YOLOv8-agri
 
-This is the supplementary GitHub repository for our submitted paper to EAI Endorsed Transactions on Industrial Networks and Intelligent Systems.
+This is the supplementary GitHub repository for our accepted paper to EAI Endorsed Transactions on Industrial Networks and Intelligent Systems. Link to [publication](https://publications.eai.eu/index.php/inis/article/view/4618).
 
 **Datasets**:
 

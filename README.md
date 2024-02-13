@@ -14,6 +14,3 @@ This is the supplementary GitHub repository for our accepted paper to EAI Endors
 
 [fish](https://www.youtube.com/watch?v=Wm4Js_ZKrM0&t=64s)
 
-**Our trained models**
-
-To be released upon acceptance.

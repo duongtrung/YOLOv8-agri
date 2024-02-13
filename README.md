@@ -14,3 +14,10 @@ This is the supplementary GitHub repository for our accepted paper to EAI Endors
 
 [fish](https://www.youtube.com/watch?v=Wm4Js_ZKrM0&t=64s)
 
+**Ultralytics**
+
+[official_GitHub](https://github.com/ultralytics)
+
+**DeepSort**
+
+[yolo8_Deepsort Repos](https://github.com/topics/yolov8-deepsort)
